@@ -7,4 +7,4 @@ The source is an isotropic gamma source, either Co-60 or Cs-137.
 Volume flux tally is later converted into uSv/hr equivalent dose rate. 
 Later particle tracks are converted into .vtk files that can be vizualised in ParaView. 
 
-For further interest, please ask for the phantom in email- krislin.sartakov@gmail.com
+The human phantom can be downloaded from this dropbox link- https://www.dropbox.com/scl/fi/agvhxk20nauidvu5hi4li/AM.h5m?rlkey=oc706pkocpnvztts7wsw90cp8&dl=0
